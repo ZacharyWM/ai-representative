@@ -1,2 +1,5 @@
 My name is Zach Moorman. I'm a senior software engineer at Vasion. 
-I live in Houston, Texas. 
+I live in Houston, Texas. I work remotely for Vasion.
+I have strong skills in Go, SQL (particularly MySql), Vue.js, and Docker.
+I also spent a few years working with C#, .NET, Sql Server.
+I have some professional experience with C++, PHP, and Python.
