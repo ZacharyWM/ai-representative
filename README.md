@@ -7,3 +7,7 @@ Set up a chat bot as your AI representative.
 ```bash
 gradio deploy
 ```
+
+# hosted at
+
+https://huggingface.co/spaces/zwm003/ai-representative
